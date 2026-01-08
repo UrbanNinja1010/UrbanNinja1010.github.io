@@ -1,10 +1,9 @@
-### /now
-Learning about:
+## Things I'm learning about
 - Music theory 
 - Writing better stories
 - business/finance 
 
-Dingen die ik doe
+## Things I'm doing
 - reading (being tracked in [Goodreads](https://www.goodreads.com))
 - making music
 - listening to music 
