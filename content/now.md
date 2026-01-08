@@ -1,14 +1,16 @@
 ### /now
-Leren over topics:
-- muziek 
-- Alverzoening 
-- Bijbelse inspiratie
+Learning about:
+- Music theory 
+- Writing better stories
+- business/finance 
 
 Dingen die ik doe
-- lezen ([Goodreads](https://www.goodreads.com))
-- muziek maken
-- muziek luisteren 
-- schrijven
-    - sanctum arcanum
-    - cataris
+- reading (being tracked in [Goodreads](https://www.goodreads.com))
+- making music
+- listening to music 
+- writing
+	- books
+		- made to create
+		- sanctum arcanum
+	- DnD campaign Cataris
     - blogposts (thats this!)

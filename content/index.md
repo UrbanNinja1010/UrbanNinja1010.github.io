@@ -7,3 +7,5 @@ Welcome to my website. I dont exactly know what Ill be publishing here, but is s
 I guess well see where this goes.
 
 Just because I like it, here is my [[now|/now page]]
+
+Also, inspired by [Style is consistent constraint](https://stephango.com/style) I have started making my own [[style rules|contraints]]
