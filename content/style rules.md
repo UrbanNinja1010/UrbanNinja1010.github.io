@@ -1,4 +1,3 @@
-
 The basic idea of these rules are as follows:
 - It feels good for people when you are consistent because [[consistency creates safety]]
 - constancy also creates style
