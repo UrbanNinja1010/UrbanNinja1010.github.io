@@ -1,7 +1,6 @@
 ---
 title: home
 tags:
-  - moc
 draft: "false"
 ---
 Welcome to my website. I dont exactly know what Ill be publishing here, but is seems like a fun idea to share some of the ideas that are usually confined to my head (or annoying my wife). I imagine the topics of this website will be much the same as the topics most of my notes are on:

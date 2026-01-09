@@ -42,12 +42,13 @@ export const defaultContentPageLayout: PageLayout = {
         // { Component: Component.ReaderMode() }, 
       ],
     }),
-    Component.Explorer(),
   ],
   right: [
     // Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.DesktopOnly(Component.TableOfContents()),    
+    Component.Explorer(),
+
+    // Component.Backlinks(),
   ],
 }
 
