@@ -16,8 +16,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://urbanninja1010.github.io",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "urbanninja1010.github.io",
+    ignorePatterns: [".obsidian", "_*"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

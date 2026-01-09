@@ -1,3 +1,8 @@
+---
+title: /now
+tags:
+draft: "false"
+---
 ## Things I'm learning about
 - Music theory 
 - Writing better stories
